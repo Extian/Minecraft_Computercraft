@@ -108,8 +108,8 @@ No command-line arguments required.
 
 # 3. `excavate.lua` -- General-Purpose Excavation Tool
 
-> *(Description based on typical functionality --- update later if
-> needed.)*
+excavate.lua always starts at the lower-left corner of the defined area, at y=1, facing +Z.
+It then mines in a serpentine pattern row by row, shifting +X between rows.
 
 ### **Summary**
 
