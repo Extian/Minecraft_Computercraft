@@ -146,15 +146,4 @@ Simple, predictable, and ideal for automation.
     ├── README.md
     └── examples/
 
-------------------------------------------------------------------------
 
-# 📘 Final Notes
-
-This suite provides flexible mining options for strip-mining, large
-quarries, and simple excavations.
-
-If you'd like: - Individual README files for each script\
-- A logo/banner\
-- Movement diagrams\
-- A version with images or markdown tables expanded\
-Just tell me!
